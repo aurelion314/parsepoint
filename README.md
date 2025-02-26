@@ -1,2 +1,2 @@
-# parsepoint
+# ParsePoint
 NLP API
